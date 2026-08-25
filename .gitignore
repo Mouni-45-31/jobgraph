@@ -1,0 +1,9 @@
+
+# Frontend dependencies
+frontend/node_modules/
+
+# Backend build files
+backend/backend/target/
+
+# Backend configuration - may contain credentials
+backend/backend/src/main/resources/application.properties
